@@ -3,3 +3,7 @@ ids=(
     "iheobagjkfklnlikgihanlhcddjoihkg"
     "joflmkccibkooplaeoinecjbmdebglab"
 )
+paths=(
+    "$HOME/Library/Application Support/Google/Chrome/Default/Local Extension Settings/"
+    "$HOME/Library/Application Support/Google/Chrome/Default/Extensions/"
+)
